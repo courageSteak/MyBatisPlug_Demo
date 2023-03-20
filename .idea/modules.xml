@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mubatis_plus_genrate/mubatis_plus_genrate.iml" filepath="$PROJECT_DIR$/mubatis_plus_genrate/mubatis_plus_genrate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_plus_datasource/mybatis_plus_datasource.iml" filepath="$PROJECT_DIR$/mybatis_plus_datasource/mybatis_plus_datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mybatis_plus_demo.iml" filepath="$PROJECT_DIR$/.idea/mybatis_plus_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus_demo/mybatisplus_demo.iml" filepath="$PROJECT_DIR$/mybatisplus_demo/mybatisplus_demo.iml" />
+    </modules>
+  </component>
+</project>

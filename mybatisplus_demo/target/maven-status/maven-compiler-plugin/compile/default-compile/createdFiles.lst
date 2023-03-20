@@ -1,0 +1,10 @@
+com\couragesteak\config\MyBatisPlusConfig.class
+com\couragesteak\App.class
+com\couragesteak\service\impl\UserServiceImpl.class
+com\couragesteak\mapper\ProductMapper.class
+com\couragesteak\mapper\UserMapper.class
+com\couragesteak\pojo\Product.class
+com\couragesteak\enums\SexEnum.class
+com\couragesteak\controller\TestController.class
+com\couragesteak\pojo\User.class
+com\couragesteak\service\UserService.class
